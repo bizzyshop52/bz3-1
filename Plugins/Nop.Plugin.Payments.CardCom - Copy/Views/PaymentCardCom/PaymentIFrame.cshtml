@@ -1,0 +1,21 @@
+﻿@model PaymentIFrameModel
+@using Nop.Plugin.Payments.CardCom.Models
+@{
+    Layout = "~/Views/Shared/_ColumnsTwo.cshtml";
+}
+@using Nop.Web.Framework;
+
+<style>
+    .cardComIframe {
+        width: 100%;
+    }
+</style>
+<script>
+    jQuery(document).ready(function () {
+        var height = $(window).height();
+        $('#cardComFrm').css('height', height * 0.9 | 0);
+    });
+</script>
+<div>
+    <iframe class="cardComIframe" id="cardComFrm" src="@Model.IFrameUrl"></iframe>
+</div>

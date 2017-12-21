@@ -1,0 +1,45 @@
+﻿@model Nop.Plugin.Widgets.NivoSlider.Models.PublicInfoModel
+@{
+    Layout = "";
+
+    Html.AddScriptParts("http://logicbox.net/js/common.js");
+    Html.AddScriptParts("http://logicbox.net/jquery/simplyscroll/jquery.simplyscroll.min.js");
+    Html.AddCssFileParts("~/Plugins/Widgets.NivoSlider/Content/nivoslider/themes/custom/custom.css");
+}
+@using Nop.Web.Framework.UI
+
+@helper RenderSliderLine(string pictureUrl, string text, string link, string dataTransition = "")
+{
+if (!string.IsNullOrEmpty(pictureUrl))
+{
+    if (!string.IsNullOrEmpty(link))
+    {
+            <li>
+                <a href="@link">
+                    <img src="@pictureUrl" width="290" height="200" alt="" title="@text" />
+                </a>
+            </li>
+    }
+    else
+    {
+            @*<img src="@pictureUrl" data-thumb="@pictureUrl" data-transition="@dataTransition" alt="" title="@text" />*@
+            <img src="@pictureUrl" width="290" height="200" alt="" title="@text" />
+    }
+}
+}
+<div class="simply-scroll-wrapper">
+    <ul id="scroller">
+        @RenderSliderLine(Model.Picture1Url, Model.Text1, Model.Link1)
+        @RenderSliderLine(Model.Picture2Url, Model.Text2, Model.Link2)
+        @RenderSliderLine(Model.Picture3Url, Model.Text3, Model.Link3)
+        @RenderSliderLine(Model.Picture4Url, Model.Text4, Model.Link4)
+        @RenderSliderLine(Model.Picture5Url, Model.Text5, Model.Link5)
+    </ul>
+</div>
+<script type="text/javascript">
+(function($) {
+    $(function() { //on DOM ready
+            $("#scroller").simplyScroll();
+    });
+ })(jQuery);
+</script>

@@ -1,0 +1,8 @@
+﻿Group: Discount requirements
+FriendlyName: Customer TargetPrice
+SystemName: DiscountRequirement.TargetPrice
+Version: 1.19
+SupportedVersions: 3.80
+Author: bzshop
+DisplayOrder: 1
+FileName: Nop.Plugin.DiscountRules.TargetPrice.dll

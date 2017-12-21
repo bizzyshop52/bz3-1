@@ -1,0 +1,5 @@
+﻿@model PaymentIFrameModel
+@using Nop.Plugin.Payments.CardCom.Models
+
+<script>window.top.location.href = "@Model.OrderCompletedUrl"; </script>
+<span class="please-wait">@T("Common.LoadingNextStep")</span>

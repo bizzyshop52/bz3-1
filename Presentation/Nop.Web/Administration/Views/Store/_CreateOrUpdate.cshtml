@@ -1,0 +1,259 @@
+﻿@model StoreModel
+
+@Html.ValidationSummary(true)
+@Html.HiddenFor(model => model.Id)
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#@Html.FieldIdFor(model => model.SslEnabled)").click(toggleSslEnabled);
+        toggleSslEnabled();
+    });
+
+    function toggleSslEnabled() {
+        if ($('#@Html.FieldIdFor(model => model.SslEnabled)').is(':checked')) {
+            $('#pnlSecureUrl').show();
+        } else {
+            $('#pnlSecureUrl').hide();
+        }
+    }
+</script>
+
+<div class="content">
+    <div class="form-horizontal">
+        <div class="panel-group">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    @(Html.LocalizedEditor<StoreModel, StoreLocalizedModel>("store-localized",
+                    @<div>
+                        <div class="form-group">
+                            <div class="col-md-3">
+                                @Html.NopLabelFor(model => model.Locales[item].Name)
+                            </div>
+                            <div class="col-md-9">
+                                @Html.NopEditorFor(model => model.Locales[item].Name)
+                                @Html.ValidationMessageFor(model => model.Locales[item].Name)
+                            </div>
+                        </div>
+                        @Html.HiddenFor(model => model.Locales[item].LanguageId)
+                    </div>
+    ,
+                    @<div>
+                        <div class="form-group">
+                            <div class="col-md-3">
+                                @Html.NopLabelFor(model => model.Name)
+                            </div>
+                            <div class="col-md-9">
+                                @Html.NopEditorFor(model => model.Name, required: true)
+                                @Html.ValidationMessageFor(model => model.Name)
+                            </div>
+                        </div>
+                    </div>
+    ))
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.Url)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.Url, required: true)
+                            @Html.ValidationMessageFor(model => model.Url)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.SslEnabled)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.SslEnabled)
+                            @Html.ValidationMessageFor(model => model.SslEnabled)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-9 col-md-offset-3">
+                            <em>@T("Admin.Configuration.Stores.Fields.SslEnabled.Hint2")</em>
+                        </div>
+                    </div>
+                    <div class="form-group" id="pnlSecureUrl">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.SecureUrl)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.SecureUrl)
+                            @Html.ValidationMessageFor(model => model.SecureUrl)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.Hosts)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.Hosts)
+                            @Html.ValidationMessageFor(model => model.Hosts)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.DefaultLanguageId)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopDropDownListFor(model => model.DefaultLanguageId, Model.AvailableLanguages)
+                            @Html.ValidationMessageFor(model => model.DefaultLanguageId)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.DisplayOrder)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.DisplayOrder)
+                            @Html.ValidationMessageFor(model => model.DisplayOrder)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.CompanyName)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.CompanyName)
+                            @Html.ValidationMessageFor(model => model.CompanyName)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.CompanyAddress)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.CompanyAddress)
+                            @Html.ValidationMessageFor(model => model.CompanyAddress)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.CompanyPhoneNumber)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.CompanyPhoneNumber)
+                            @Html.ValidationMessageFor(model => model.CompanyPhoneNumber)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.CompanyVat)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.CompanyVat)
+                            @Html.ValidationMessageFor(model => model.CompanyVat)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="CompanyMail" title="">מייל הזמנות</label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.CompanyMail)
+                            @Html.ValidationMessageFor(model => model.CompanyMail)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="CompanyMailLeads" title="">מייל לידים</label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.CompanyMailLeads)
+                            @Html.ValidationMessageFor(model => model.CompanyMailLeads)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="CompanyMailLeads" title="">הודעת מייל לבעל החנות ליד חדש</label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.newLeadMsg)
+                            @Html.ValidationMessageFor(model => model.newLeadMsg)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="newLeadSubject" title="">newLeadSubject</label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.newLeadSubject)
+                            @Html.ValidationMessageFor(model => model.newLeadSubject)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="SmsUserName" title="">SmsUserName</label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.SmsUserName)
+                            @Html.ValidationMessageFor(model => model.SmsUserName)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="SmsPassword" title="">SmsPassword</label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.SmsPassword)
+                            @Html.ValidationMessageFor(model => model.SmsPassword)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="SmsLeadMsg" title="">תוכן הודעת סמס ללקוח מטופס לידים</label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.SmsLeadMsg)
+                            @Html.ValidationMessageFor(model => model.SmsLeadMsg)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="SmsLeadMsg" title="">כותר הודעת סמס </label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.SmsSender)
+                            @Html.ValidationMessageFor(model => model.SmsSender)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="SmsLeadMsg" title="">האם לשלוח סמס לבעל חנות על המנה אשר שולמה</label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.SendSmsOnOrderToOwner)
+                            @Html.ValidationMessageFor(model => model.SendSmsOnOrderToOwner)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="SmsLeadMsg" title="">טלפון בעל חנות לשליחת הודעת המנה ששולמה</label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.OwnerPhoneNumber)
+                            @Html.ValidationMessageFor(model => model.OwnerPhoneNumber)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="SmsLeadMsg" title="">הודעת סמס לבעל חנות על הזמנה ששולמה</label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.SmsPaidOrderMsg)
+                            @Html.ValidationMessageFor(model => model.SmsPaidOrderMsg)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            <label class="control-label" for="SmsLeadMsg" title="">zap</label>
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopEditorFor(model => model.zapEnabled)
+                            @Html.ValidationMessageFor(model => model.zapEnabled)
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

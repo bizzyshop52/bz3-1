@@ -1,0 +1,21 @@
+﻿@model PaymentIFrameModel
+@using Nop.Plugin.Payments.CardCom.Models
+@{
+    if(!Model.IsIframe)
+    {
+        Layout = "~/Views/Shared/_ColumnsTwo.cshtml";
+    }
+}
+<div>
+   <h1> @T("Plugins.Payments.CardCom.Failed")</h1>
+</div>
+@if(!String.IsNullOrEmpty(Model.ErrorMessage))
+{ 
+    <div>
+        @Model.ErrorMessage
+    </div>
+    <div>
+        <br />
+        <a target="_parent" href="@Url.RouteUrl("OrderDetails", new { orderID = Model.OrderId })">@T("Checkout.PlacedOrderDetails")</a>
+    </div>
+}

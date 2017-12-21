@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: cardcom
+SystemName: Payments.CardCom
+Version: 1.0
+SupportedVersions: 3.90
+Author: shlomo
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.CardCom.dll

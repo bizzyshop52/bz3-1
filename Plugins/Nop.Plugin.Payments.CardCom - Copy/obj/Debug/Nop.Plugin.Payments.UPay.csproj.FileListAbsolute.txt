@@ -1,0 +1,13 @@
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.UPay\obj\Debug\Nop.Plugin.Payments.UPay.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.UPay\bin\Debug\Nop.Plugin.Payments.UPay.dll
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.UPay\bin\Debug\Nop.Plugin.Payments.UPay.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.UPay\bin\Debug\System.Web.Mvc.dll
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.UPay\bin\Debug\System.Web.Mvc.xml
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.UPay\obj\Debug\Nop.Plugin.Payments.UPay.dll
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.UPay\obj\Debug\Nop.Plugin.Payments.UPay.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.UPay\bin\Debug\Description.txt
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.UPay\bin\Debug\logo.jpg
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\Presentation\Nop.Web\Plugins\Payments.UPay\Description.txt
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\Presentation\Nop.Web\Plugins\Payments.UPay\logo.jpg
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\Presentation\Nop.Web\Plugins\Payments.UPay\Nop.Plugin.Payments.UPay.dll
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\Presentation\Nop.Web\Plugins\Payments.UPay\Nop.Plugin.Payments.UPay.pdb

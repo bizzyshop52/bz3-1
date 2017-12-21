@@ -1,0 +1,146 @@
+﻿@{
+    Layout = "";
+}
+@model ConfigurationModel
+@using Nop.Plugin.Payments.CardCom.Models;
+@using Nop.Web.Framework;
+@Html.Action("StoreScopeConfiguration", "Setting", new { area = "Admin" })
+
+
+
+@using (Html.BeginForm())
+
+{
+    @Html.AntiForgeryToken()
+    <table class="adminContent">
+    <tr>
+        <td colspan="2">
+            CardCom, payments <br />
+            Israeli payment integrator<br />
+            <a href="https://secure.cardcom.co.il/" target="_blank">https://secure.cardcom.co.il/</a>
+            <br />     <br />     
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" width="100%">
+            <hr />
+        </td>
+    </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.Operation_OverrideForStore, model => model.Operation, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.Operation):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.Operation)
+                @Html.ValidationMessageFor(model => model.Operation)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.TerminalNumber_OverrideForStore, model => model.TerminalNumber, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.TerminalNumber):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.TerminalNumber)
+                @Html.ValidationMessageFor(model => model.TerminalNumber)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.UserName_OverrideForStore, model => model.UserName, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.UserName):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.UserName)
+                @Html.ValidationMessageFor(model => model.UserName)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.MinPayments_OverrideForStore, model => model.MinPayments, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.MinPayments):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.MinPayments)
+                @Html.ValidationMessageFor(model => model.MinPayments)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.MaxPayments_OverrideForStore, model => model.MaxPayments, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.MaxPayments):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.MaxPayments)
+                @Html.ValidationMessageFor(model => model.MaxPayments)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.AddReturnButtonToSecurePage_OverrideForStore, model => model.AddReturnButtonToSecurePage, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.AddReturnButtonToSecurePage):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.AddReturnButtonToSecurePage)
+                @Html.ValidationMessageFor(model => model.AddReturnButtonToSecurePage)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.CreateToken_OverrideForStore, model => model.CreateToken, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.CreateToken):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.CreateToken)
+                @Html.ValidationMessageFor(model => model.CreateToken)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.CreateInvoice_OverrideForStore, model => model.CreateInvoice, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.CreateInvoice):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.CreateInvoice)
+                @Html.ValidationMessageFor(model => model.CreateInvoice)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.AdditionalFee_OverrideForStore, model => model.AdditionalFee, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.AdditionalFee):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.AdditionalFee)
+                @Html.ValidationMessageFor(model => model.AdditionalFee)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.AdditionalFeePercentage_OverrideForStore, model => model.AdditionalFeePercentage, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.AdditionalFeePercentage):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.AdditionalFeePercentage)
+                @Html.ValidationMessageFor(model => model.AdditionalFeePercentage)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.OverrideStoreCheckboxFor(model => model.UseIframe_OverrideForStore, model => model.UseIframe, Model.ActiveStoreScopeConfiguration)
+                @Html.NopLabelFor(model => model.UseIframe):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.UseIframe)
+                @Html.ValidationMessageFor(model => model.UseIframe)
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" width="100%">
+                <input type="submit" name="save" class="k-button" value="@T("Admin.Common.Save")" />
+            </td>
+        </tr>
+    </table>
+
+}

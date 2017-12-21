@@ -1,0 +1,69 @@
+﻿@model NewsletterBoxModel
+@using Nop.Web.Models.Newsletter;
+<div class="newsletter">
+    <!--<div class="title">
+        <strong>השאר פרטים ונחזור אליך</strong>
+    </div> -->
+   
+    <div class="newsletter-result" id="newsletter-result-block"></div>
+    <script type="text/javascript">
+        function newsletter_subscribe(subscribe) {
+            var subscribeProgress = $("#subscribe-loading-progress");
+            subscribeProgress.show();
+            var postData = {
+                subscribe: subscribe,
+                phone: $("#newsletter-phone").val(),
+                name: $("#newsletter-name").val(),
+                email: $("#newsletter-mail").val(),
+       }
+        
+
+           
+            $.ajax({
+                cache: false,
+                type: "POST",
+                url: "@(Url.RouteUrl("SubscribeNewsletter"))",
+                data: postData,
+                success: function(data) {
+                console.log(data)
+                    subscribeProgress.hide();
+                    $("#newsletter-result-block").html(data.Result);
+                    if (data.Success) {
+                        $('#newsletter-subscribe-block').hide();
+                        $('#newsletter-result-block').show();
+                    } else {
+                    console.log(data)
+                        $('#newsletter-result-block').fadeIn("slow").delay(2000).fadeOut("slow");
+                    }
+                },
+                error: function(xhr, ajaxOptions, thrownError) {
+                    alert('Failed to subscribe.');
+                    subscribeProgress.hide();
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            $('#newsletter-subscribe-button').click(function () {
+                @if (Model.AllowToUnsubscribe)
+                {
+                    <text>if ($('#newsletter_subscribe').is(':checked')) {
+                        newsletter_subscribe('true');
+                    } else {
+                        newsletter_subscribe('false');
+                    }</text>
+                }
+                else
+                {
+                    <text>newsletter_subscribe('true');</text>
+                }
+            });
+            $("#newsletter-email").keydown(function (event) {
+                if (event.keyCode == 13) {
+                    $("#newsletter-subscribe-button").click();
+                    return false;
+                }
+            });
+        });
+    </script>
+</div>

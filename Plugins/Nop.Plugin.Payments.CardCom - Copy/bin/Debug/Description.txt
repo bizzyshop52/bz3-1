@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: UPay
+SystemName: Payments.UPay
+Version: 1.0
+SupportedVersions: 3.20
+Author: Hezy Ziv
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.UPay.dll

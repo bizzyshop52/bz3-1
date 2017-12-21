@@ -1,0 +1,32 @@
+﻿
+<div class="search-box store-search-box mobile-search">
+    @Html.Action("SearchBox", "Catalog")
+</div>
+<div class="header">
+    @Html.Widget("header")
+    <div class="header-upper">
+        <div class="header-selectors-wrapper">
+            @Html.Action("TaxTypeSelector", "Common")
+            @Html.Action("CurrencySelector", "Common")
+            @Html.Action("LanguageSelector", "Common")
+            @Html.Widget("header_selectors")
+        </div>
+        <div class="header-links-wrapper">
+            @Html.Action("HeaderLinks", "Common")
+            @Html.Action("FlyoutShoppingCart", "ShoppingCart")
+        </div>
+    </div>
+    <div class="header-lower">
+        <div class="header-logo">
+            @Html.Action("Logo", "Common")
+        </div>
+        <div class="search-box store-search-box">
+            @Html.Action("SearchBox", "Catalog")
+        </div>
+        @*<div class="home-safe-buy">
+            <a href="http://www.cardcom.co.il/Pages2/Articles/SafeClearing.aspx" target="_blank">
+            <img src="https://www.conex.co.il/Content/Images/uploaded/safekniya.png">
+            </a>
+        </div>*@
+    </div>
+</div>

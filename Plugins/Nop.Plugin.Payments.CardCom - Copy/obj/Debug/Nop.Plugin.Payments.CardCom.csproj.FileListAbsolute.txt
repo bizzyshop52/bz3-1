@@ -1,0 +1,221 @@
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\nopCommerce_3.20_Source\HzPlugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Windalert Store\WindalertNop\src\HZ Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Websites\Windalert Store\WindalertNop\src\HZ Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Windalert Store\WindalertNop\src\HZ Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Windalert Store\WindalertNop\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Websites\Windalert Store\WindalertNop\src\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Websites\Windalert Store\WindalertNop\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Windalert Store\WindalertNop\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Windalert Store\WindalertRes\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Websites\Windalert Store\WindalertRes\src\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Websites\Windalert Store\WindalertRes\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Windalert Store\WindalertRes\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Windalert Store\WindalertRes\src\HZ Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Websites\Windalert Store\WindalertRes\src\HZ Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Windalert Store\WindalertRes\src\HZ Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\NopCpmmerce_3.30\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Websites\Nop Plugins\NopCpmmerce_3.30\src\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Websites\Nop Plugins\NopCpmmerce_3.30\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\NopCpmmerce_3.30\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\NopCpmmerce_3.30\src\HZ Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\NopCpmmerce_3.30\src\HZ Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\NopCpmmerce_3.30\src\HZ Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Websites\Nop Plugins\nopCommerce3.40\src\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Windalert Store\Windalert340\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Websites\Windalert Store\Windalert340\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Websites\Windalert Store\Windalert340\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Websites\Windalert Store\Windalert340\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Websites\Windalert Store\Windalert340\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Websites\Windalert Store\Windalert340\src\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Websites\Windalert Store\Windalert340\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Websites\Windalert Store\Windalert340\src\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Websites\Windalert Store\Windalert340\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Windalert Store\Windalert340\src\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Windalert Store\Windalert340\src\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Websites\Windalert Store\Windalert340\src\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Windalert Store\Windalert340\src\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Windalert Store\nopCommerce_3.40_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\nopCommerce_3.40_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Hz Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\nop1\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Users\bizi\nop\nop1\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Users\bizi\nop\nop1\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Users\bizi\nop\nop1\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Users\bizi\nop\nop1\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Users\bizi\nop\nop1\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Users\bizi\nop\nop1\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Users\bizi\nop\nop1\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Users\bizi\nop\nop1\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\nop1\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\nop1\Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Users\bizi\nop\nop1\Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\nop1\Plugins\Nop.Plugin.Payments.CardCom\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Users\bizi\nop\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\pastel2\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Users\bizi\nop\pastel2\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\pastel2\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\pastel2\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Users\bizi\nop\pastel2\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Users\bizi\nop\pastel2\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Users\bizi\nop\pastel2\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Users\bizi\nop\pastel2\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Users\bizi\nop\pastel2\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Users\bizi\nop\pastel2\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Users\bizi\nop\pastel2\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Users\bizi\nop\pastel2\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\pastel2\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\pastel3\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Users\bizi\nop\pastel3\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Users\bizi\nop\pastel3\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Users\bizi\nop\pastel3\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Users\bizi\nop\pastel3\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Users\bizi\nop\pastel3\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Users\bizi\nop\pastel3\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Users\bizi\nop\pastel3\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Users\bizi\nop\pastel3\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\pastel3\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\pastel3\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Users\bizi\nop\pastel3\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\pastel3\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\pastel3 - Copy\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Users\bizi\nop\pastel3 - Copy\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Users\bizi\nop\pastel3 - Copy\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Users\bizi\nop\pastel3 - Copy\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Users\bizi\nop\pastel3 - Copy\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Users\bizi\nop\pastel3 - Copy\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Users\bizi\nop\pastel3 - Copy\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Users\bizi\nop\pastel3 - Copy\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Users\bizi\nop\pastel3 - Copy\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\pastel3 - Copy\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\pastel3 - Copy\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Users\bizi\nop\pastel3 - Copy\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\pastel3 - Copy\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\nopCommerce39\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Users\bizi\nop\nopCommerce39\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Users\bizi\nop\nopCommerce39\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Users\bizi\nop\nopCommerce39\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Users\bizi\nop\nopCommerce39\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Users\bizi\nop\nopCommerce39\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Users\bizi\nop\nopCommerce39\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Users\bizi\nop\nopCommerce39\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Users\bizi\nop\nopCommerce39\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\nopCommerce39\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\nopCommerce39\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Users\bizi\nop\nopCommerce39\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\nopCommerce39\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\nopCommerce39Zap\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Users\bizi\nop\nopCommerce39Zap\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Users\bizi\nop\nopCommerce39Zap\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Users\bizi\nop\nopCommerce39Zap\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Users\bizi\nop\nopCommerce39Zap\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Users\bizi\nop\nopCommerce39Zap\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Users\bizi\nop\nopCommerce39Zap\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Users\bizi\nop\nopCommerce39Zap\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Users\bizi\nop\nopCommerce39Zap\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\nopCommerce39Zap\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\nopCommerce39Zap\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Users\bizi\nop\nopCommerce39Zap\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\nopCommerce39Zap\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\nopCommerce39ZapHa\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Users\bizi\nop\nopCommerce39ZapHa\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Users\bizi\nop\nopCommerce39ZapHa\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Users\bizi\nop\nopCommerce39ZapHa\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Users\bizi\nop\nopCommerce39ZapHa\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Users\bizi\nop\nopCommerce39ZapHa\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Users\bizi\nop\nopCommerce39ZapHa\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Users\bizi\nop\nopCommerce39ZapHa\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Users\bizi\nop\nopCommerce39ZapHa\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\nopCommerce39ZapHa\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\nopCommerce39ZapHa\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Users\bizi\nop\nopCommerce39ZapHa\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\nopCommerce39ZapHa\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\nopGit\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Configure.cshtml
+C:\Users\bizi\nop\nopGit\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentInfo.cshtml
+C:\Users\bizi\nop\nopGit\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\PaymentIFrame.cshtml
+C:\Users\bizi\nop\nopGit\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Success.cshtml
+C:\Users\bizi\nop\nopGit\Presentation\Nop.Web\Plugins\Payments.CardCom\Views\PaymentCardCom\Failed.cshtml
+C:\Users\bizi\nop\nopGit\Presentation\Nop.Web\Plugins\Payments.CardCom\web.config
+C:\Users\bizi\nop\nopGit\Presentation\Nop.Web\Plugins\Payments.CardCom\Description.txt
+C:\Users\bizi\nop\nopGit\Presentation\Nop.Web\Plugins\Payments.CardCom\logo.jpg
+C:\Users\bizi\nop\nopGit\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\nopGit\Presentation\Nop.Web\Plugins\Payments.CardCom\Nop.Plugin.Payments.CardCom.pdb
+C:\Users\bizi\nop\nopGit\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.csprojResolveAssemblyReference.cache
+C:\Users\bizi\nop\nopGit\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.csproj.CoreCompileInputs.cache
+C:\Users\bizi\nop\nopGit\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.dll
+C:\Users\bizi\nop\nopGit\Plugins\Nop.Plugin.Payments.CardCom - Copy\obj\Debug\Nop.Plugin.Payments.CardCom.pdb

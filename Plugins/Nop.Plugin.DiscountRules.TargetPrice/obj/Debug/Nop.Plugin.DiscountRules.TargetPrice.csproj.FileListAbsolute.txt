@@ -1,0 +1,17 @@
+C:\Users\bizi\nop\AddressAttZmo\Presentation\Nop.Web\Plugins\DiscountRules.TargetPrice\Views\DiscountRulesTargetPrice\Configure.cshtml
+C:\Users\bizi\nop\AddressAttZmo\Presentation\Nop.Web\Plugins\DiscountRules.TargetPrice\Description.txt
+C:\Users\bizi\nop\AddressAttZmo\Presentation\Nop.Web\Plugins\DiscountRules.TargetPrice\web.config
+C:\Users\bizi\nop\AddressAttZmo\Presentation\Nop.Web\Plugins\DiscountRules.TargetPrice\Views\DiscountRulesTargetPrice\ProductAddPopup.cshtml
+C:\Users\bizi\nop\AddressAttZmo\Presentation\Nop.Web\Plugins\DiscountRules.TargetPrice\logo.jpg
+C:\Users\bizi\nop\AddressAttZmo\Presentation\Nop.Web\Plugins\DiscountRules.TargetPrice\Nop.Plugin.DiscountRules.TargetPrice.dll.config
+C:\Users\bizi\nop\AddressAttZmo\Presentation\Nop.Web\Plugins\DiscountRules.TargetPrice\Nop.Plugin.DiscountRules.TargetPrice.dll
+C:\Users\bizi\nop\AddressAttZmo\Presentation\Nop.Web\Plugins\DiscountRules.TargetPrice\Nop.Plugin.DiscountRules.TargetPrice.pdb
+C:\Users\bizi\nop\AddressAttZmo\Plugins\Nop.Plugin.DiscountRules.TargetPrice\obj\Debug\Nop.Plugin.DiscountRules.TargetPrice.csproj.App.config
+C:\Users\bizi\nop\AddressAttZmo\Plugins\Nop.Plugin.DiscountRules.TargetPrice\obj\Debug\Nop.Plugin.DiscountRules.TargetPrice.dll
+C:\Users\bizi\nop\AddressAttZmo\Plugins\Nop.Plugin.DiscountRules.TargetPrice\obj\Debug\Nop.Plugin.DiscountRules.TargetPrice.pdb
+C:\Users\bizi\nop\nopCommerce39ZapHa\Plugins\Nop.Plugin.DiscountRules.TargetPrice\obj\Debug\Nop.Plugin.DiscountRules.TargetPrice.csproj.App.config
+C:\Users\bizi\nop\nopCommerce39ZapHa\Plugins\Nop.Plugin.DiscountRules.TargetPrice\obj\Debug\Nop.Plugin.DiscountRules.TargetPrice.dll
+C:\Users\bizi\nop\nopCommerce39ZapHa\Plugins\Nop.Plugin.DiscountRules.TargetPrice\obj\Debug\Nop.Plugin.DiscountRules.TargetPrice.pdb
+C:\Users\bizi\nop\nopCommerce39ZapHa\Plugins\Nop.Plugin.DiscountRules.TargetPrice\obj\Debug\Nop.Plugin.DiscountRules.TargetPrice.csproj.CoreCompileInputs.cache
+C:\Users\bizi\nop\nopGit\Plugins\Nop.Plugin.DiscountRules.TargetPrice\obj\Debug\Nop.Plugin.DiscountRules.TargetPrice.csproj.App.config
+C:\Users\bizi\nop\nopGit\Plugins\Nop.Plugin.DiscountRules.TargetPrice\obj\Debug\Nop.Plugin.DiscountRules.TargetPrice.csproj.CoreCompileInputs.cache
